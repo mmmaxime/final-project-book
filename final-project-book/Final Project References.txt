@@ -1,0 +1,9 @@
+Selvaraj,Natassha(2022), “How to Build a Recommendation system in Python?”. 365DataScience(2023, Sofia, Bulgaria): URL: https://365datascience.com/tutorials/how-to-build-recommendation-system-in-python/
+
+Images: Google Images(2023), URL: https://www.google.de/imghp?hl=en&ogbl
+
+Web-Scraping: Barnes & Noble(2023), “B&N Top 100: Book Bestsellers”.URL: https://www.barnesandnoble.com/b/books/_/N-1fZ29Z8q8
+
+Datasets: Kaggle (2023), “7k Books” , URL: https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata
+
+Datasets: Kaggle (2023), “GoodReads Best Books”, URL: https://www.kaggle.com/datasets/thedevastator/comprehensive-overview-of-52478-goodreads-best-b
